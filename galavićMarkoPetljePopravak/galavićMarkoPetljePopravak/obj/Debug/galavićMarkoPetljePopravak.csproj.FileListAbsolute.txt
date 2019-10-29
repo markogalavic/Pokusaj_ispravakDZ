@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\galavićMarkoPetljePopravak\galavićMarkoPetljePopravak\bin\Debug\galavićMarkoPetljePopravak.exe.config
+C:\Users\Korisnik\source\repos\galavićMarkoPetljePopravak\galavićMarkoPetljePopravak\bin\Debug\galavićMarkoPetljePopravak.exe
+C:\Users\Korisnik\source\repos\galavićMarkoPetljePopravak\galavićMarkoPetljePopravak\bin\Debug\galavićMarkoPetljePopravak.pdb
+C:\Users\Korisnik\source\repos\galavićMarkoPetljePopravak\galavićMarkoPetljePopravak\obj\Debug\galavićMarkoPetljePopravak.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\galavićMarkoPetljePopravak\galavićMarkoPetljePopravak\obj\Debug\galavićMarkoPetljePopravak.exe
+C:\Users\Korisnik\source\repos\galavićMarkoPetljePopravak\galavićMarkoPetljePopravak\obj\Debug\galavićMarkoPetljePopravak.pdb
